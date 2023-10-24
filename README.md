@@ -22,6 +22,7 @@ Charts Requirement:
 Create a filled map chart that visualizes the total number of calls recieved from different states or regions.
 
 3.Top reson for calls(Tree Map): Implement a tree map chart to display the top reasons for calls. Each box in the tree map represents a call reason.
+
 4. Total calls by channel(Donut Chart):Create a donut chart to showcase the distribution of calls by different communication channels.
    
 5.Total calls by sentiment(Column Chart):
