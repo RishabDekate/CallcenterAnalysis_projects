@@ -1,8 +1,8 @@
 # CallcenterAnalysis_projects
 
-Problem Statement:
+This project contains data of a call center, we are given this dataset so that we can analyze the call pattern that the center gets and analyze it for making the center more efficient for work and tell the stakeholders where the call center is lagging and the scope of improvement for it. In this process 2 pages are provided as a dashboard, where in first dashboard all KPI's are visualized for understanding the data and in second page is the grid for the data set with some important columns used for visualization.
 
-KPI requirement:
+Problem Statement:
 
 1.Total number of calls: We need to track and display the total number of calls received by our call center over a specified period.
 
