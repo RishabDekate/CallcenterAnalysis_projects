@@ -37,5 +37,4 @@ Findings:
 Sugesstions:
 
 1.Response time can be more efficient so that callers would have positive sentiments after talking which would be good for the call center.
-
-2. We can say that total calls that are coming to the call center are from Los Angeles so we can also make other clients get solutions in lesser time so that we can get more activity from other cities too.
+2.We can say that total calls that are coming to the call center are from Los Angeles so we can also make other clients get solutions in lesser time so that we can get more activity from other cities too.
