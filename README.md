@@ -27,3 +27,14 @@ Charts Requirement:
 5.Total calls by sentiment(Column Chart): Utilize a column chart to illustrate the distribution of calls by sentiment(e.g,positive, negative, neutral).
 
 6.Total calls by call center(Bar Chart): Create a bar chart that presents the total number of calls handeled by each call center or department.
+
+Findings:
+
+1. Fridays and thursdays are the most called day as per the data from LA mostly for billing questions.
+2. Sundays and Mondays are fairly active, with lesser call duration and good response time.
+3. Most cities from where we got most calls are mostly LA, requesting for billing and service outage.
+
+Sugesstions:
+
+1.Response time can be more efficient so that callers would have positive sentiments after talking which would be good for the call center.
+2. We can say that total calls that are coming to the call center are from Los Angeles so we can also make other clients get solutions in lesser time so that we can get more activity from other cities too.
