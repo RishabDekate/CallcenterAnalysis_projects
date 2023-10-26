@@ -28,6 +28,13 @@ Charts Requirement:
 
 6.Total calls by call center(Bar Chart): Create a bar chart that presents the total number of calls handeled by each call center or department.
 
+Analysis steps:
+1.Create a Problem Statement.
+2.Identify the data you want to analyze.
+3.Explore and clean the data.
+4.Analyze the data to get useful insights.
+5.Present the data interms of reports or dashboards using visualization.
+
 Findings:
 
 1. Fridays and thursdays are the most called day as per the data from LA mostly for billing questions.
